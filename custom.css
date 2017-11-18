@@ -1,0 +1,9 @@
+body {
+  font-size: 200% !important;
+}
+div.cell.border-box-sizing.text_cell.rendered {
+  padding: 0;
+}
+div.text_cell_render.border-box-sizing.rendered_html {
+  padding: 0;
+}
